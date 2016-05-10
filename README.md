@@ -1,2 +1,2 @@
 # hello-world
-mastering git &amp; github
+This is just simple git repo to create a project and make a pull request on GitHub!
